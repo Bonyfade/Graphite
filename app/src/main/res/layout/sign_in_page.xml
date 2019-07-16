@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_torq"
+    tools:context=".SignIn">
+
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/email_Field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:focusableInTouchMode="true">
+
+        <EditText
+            android:id="@+id/login_emailET"
+            android:hint="@string/email_hint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="textEmailAddress"/>
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/password_Field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="230dp"
+        android:ems="10"
+        android:focusableInTouchMode="true">
+
+        <EditText
+            android:id="@+id/login_passwordET"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/password_hint"
+            android:inputType="textPassword"/>
+
+
+</android.support.design.widget.TextInputLayout>
+
+
+
+
+    <Button
+        android:id="@+id/sign_in_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/sign_in"
+        android:shadowRadius="23"
+        android:layout_marginBottom="100dp"
+        android:background="@color/colorAccent"
+        android:textStyle="bold"/>
+</RelativeLayout>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Add Post"
+        android:id="@+id/add_post"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_add_a_photo"
+        />
+
+    <item
+        android:title="Profile"
+        android:id="@+id/profile_toolbar"
+        android:icon="@drawable/ic_profile"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="Logout"
+        android:id="@+id/logout"
+        android:icon="@drawable/ic_logout"/>
+    <item
+        android:title="Search"
+        android:id="@+id/search"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+        app:actionViewClass="SearchView" />
+
+</menu>

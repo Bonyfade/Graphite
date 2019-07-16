@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "353171502321",
+    "firebase_url": "https://graphitefb-4a.firebaseio.com",
+    "project_id": "graphitefb-4a",
+    "storage_bucket": "graphitefb-4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353171502321:android:fb66d8cfce66b7f9",
+        "android_client_info": {
+          "package_name": "com.example.bonyfade808.graphitearts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353171502321-2tvm8i2ac5pehbumjk0ro7h04hbl06t8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bonyfade808.graphitearts",
+            "certificate_hash": "eac507620a42cd0efc53cfe55ba1414ff2809b42"
+          }
+        },
+        {
+          "client_id": "353171502321-km3u0p01ojo0tpsqg05mhdkgc4l3uchd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS5XyyjyNGQezYWM3P4x0bl2CrJxSw3Kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353171502321-km3u0p01ojo0tpsqg05mhdkgc4l3uchd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

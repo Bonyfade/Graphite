@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Graphite Arts</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="retype">Re-type Password</string>
+    <string name="register">Register</string>
+    <string name="sign_in">ENTER GRAPHITE</string>
+    <string name="email_hint">Enter your Email</string>
+    <string name="password_hint">Enter your Password</string>
+    <string name="already_acc">Already have an Account?</string>
+    <string name="artist_name">Kryptic</string>
+    <string name="title_activity_main_art_page">MainArtPage</string>
+    <string name="buy_art">BUY</string>
+    <string name="artist_title">"Bonte CURSiV"</string>
+    <string name="art_title">"Tell Me Now"</string>
+    <string name="title_activity_upload_page">Upload Page</string>
+    <string name="upload_art">Upload your Art</string>
+    <string name="emailpassword_title_text">Email and Password</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="title_activity_profile">ProfileAct</string>
+    <string name="title_activity_after_login">AfterLogin</string>
+    <string name="title_activity_main_timeline">Timeline</string>
+    <string name="title_activity_profile_builder">ProfileBuilder</string>
+    <string name="title_activity_song_upload">SongUpload</string>
+    <string name="home_label">Home</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Users will appear here</string>
+
+</resources>
